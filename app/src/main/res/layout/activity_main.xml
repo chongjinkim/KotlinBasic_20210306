@@ -14,4 +14,9 @@
         android:layout_height="wrap_content"
         android:text="테스트용 버튼 1"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/testBtn2"
+        android:layout_height="wrap_content"
+        android:text="테스트용 버튼 2"/>
 </LinearLayout>
